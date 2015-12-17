@@ -37,7 +37,7 @@ function sendWebhook(host,path,message){
 
 
 
-// here we go with insults
+// here we go with the quotes
 function getQuote() {
       var myArray = [ "*Quote1*\nblablabla1",
                       "*Quote2*\nblablabla2",
